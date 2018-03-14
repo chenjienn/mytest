@@ -1,0 +1,16 @@
+target
+*.iml
+.idea
+.settings
+.project
+.classpath
+*~
+out
+lib
+hotspot.log
+test-output
+CVS
+.checkstyle
+**/logs
+*.ipr
+*.iws
